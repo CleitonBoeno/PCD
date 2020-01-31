@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="AmareloFraco">#FFD3C335</color>
+    <color name="VerdeFraco">#FF49AC4E</color>
+    <color name="RoxoFraco">#FF8859DD</color>
+    <color name="AzulFraco">#FF2196F3</color>
+    <color name="Branco">#FFFFFF</color>
+    <color name="Preto">#000000</color>
+
+</resources>
